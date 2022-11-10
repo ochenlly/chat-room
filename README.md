@@ -9,7 +9,7 @@
 - vue-router
 - socket.io-client
 
-  2.后端
+2.后端
 
 - nodejs
 - express
