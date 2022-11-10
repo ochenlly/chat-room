@@ -1,9 +1,9 @@
-// const {creare} = import('vue-router')
 import { createRouter, createWebHistory } from "vue-router";
 
 const routes = [
   {
     path: "/",
+    redirect: "/login",
     component: () => import("../components/HelloWorld.vue"),
   },
   {
